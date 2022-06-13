@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+
+}
+
+body {
+    display: flex;
+    color: white;
+}
+
+.herobox {
+    font-size: 100px;
+    justify-content: space-between;
+    padding: 170px 750px;
+}
