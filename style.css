@@ -1,15 +1,23 @@
 html {
     background-color: black;
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
 body {
-    display: flex;
+    margin-top: 400px;
     color: white;
+    text-align: center;
 }
 
 .herobox {
     font-size: 100px;
-    justify-content: space-between;
-    padding: 170px 750px;
+    background-image: linear-gradient(#0F2027, #2C5364);
+    border-radius: 25px;
+    padding: 0px 40px;
+    border-color: #2C5364;
+    border: solid 2px;
 }
