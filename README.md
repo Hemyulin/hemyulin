@@ -33,9 +33,7 @@ A small everyday problem turned into a product experiment around UX, routines, a
 
 I tend to have a few experiments running at any given time.
 
-- **White Noise** — experimenting with real-time audio generation on Android using Kotlin and Jetpack Compose
-- **HP Randomizer** — a small mobile project built around one very specific idea
-- **Music Bridge** — exploring the intersection of software and music with a Spring Boot backend
+- **White Noise v1.0.0** — an Android app exploring real-time audio generation with Kotlin and Jetpack Compose
 - **Hardware experiments** — Raspberry Pi, Pico W, NFC, sensors, servos, electromagnets, and whatever else seems useful for the next idea
 
 Some become proper products. Some teach me something. Some remain wonderfully overengineered solutions to tiny problems.
