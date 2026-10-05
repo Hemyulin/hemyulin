@@ -1,48 +1,87 @@
 # Hey, I'm Daniel 👋
 
-I build things, break things, and occasionally figure out why they broke.
+I build software, tools, and experiments — usually because I want to understand something better, automate something annoying, or see if an idea actually works.
 
-I'm a developer and QA engineer based in Berlin, with a particular interest in making complex systems easier to **see, test, understand, and use**.
+I'm a developer and QA engineer based in Berlin. My background spans software quality, development, music production, languages, and a somewhat unreasonable number of side projects.
 
-My path into software wasn't particularly linear — and I like it that way.
+🌐 **More of my work, experiments, music, and other rabbit holes → [budiansky.dev](https://budiansky.dev)**
 
-## 🔭 What I'm working on
+## 🚀 Featured projects
 
 ### 🌌 Codestellation
-A system-mapping toolkit that scans a codebase and turns its architecture into something you can actually explore.
+A system-mapping toolkit that scans codebases and makes their architecture explorable.
 
-APIs, routes, services, entities, dependencies and more — extracted from the code instead of documented by hand.
+It discovers things like APIs, routes, services, entities, dependencies, jobs, middleware, and tests — turning an unfamiliar codebase into something you can understand faster.
 
 **TypeScript · Node.js · static analysis · developer tooling**
 
+### 🏡 Mitmachstunden
+A real-world web app built for our parent-run daycare to replace the manual tracking of families' required participation hours.
+
+It handles families, users, children, hour entries, yearly requirements, approvals, exemptions, and administration — with authentication and row-level access control.
+
+**Vue · TypeScript · Supabase · PostgreSQL · RLS · Cloudflare**
+
 ### 🪥 Better Brushing
-A Flutter app built around a simple problem: making tooth brushing with kids a little calmer, clearer, and more educational.
+A Flutter app for making tooth brushing with kids calmer and more educational.
 
-**Flutter · Dart · family tech**
+A small everyday problem turned into a product experiment around UX, routines, and family life.
 
-## 🧪 Things I like exploring
+**Flutter · Dart**
 
-- developer tooling & automation
-- software architecture and system mapping
+## 🧪 Also on my workbench
+
+I tend to have a few experiments running at any given time.
+
+- **White Noise** — experimenting with real-time audio generation on Android using Kotlin and Jetpack Compose
+- **HP Randomizer** — a small mobile project built around one very specific idea
+- **Music Bridge** — exploring the intersection of software and music with a Spring Boot backend
+- **Hardware experiments** — Raspberry Pi, Pico W, NFC, sensors, servos, electromagnets, and whatever else seems useful for the next idea
+
+Some become proper products. Some teach me something. Some remain wonderfully overengineered solutions to tiny problems.
+
+## 🔍 Things I keep coming back to
+
+- developer tooling
+- software architecture & system mapping
+- testing & quality engineering
 - observability
-- test automation
+- automation
 - developer experience
-- mobile apps
-- turning annoying everyday problems into small tools
+- mobile development
+- self-hosting & hardware
+- making complicated things easier to understand
 
-## 🛠 I work with
+## 🛠 Tech
 
-**TypeScript · Node.js · React · Vue · Flutter · Dart**  
-**Playwright · Vitest · Docker · Git · MongoDB**
+**TypeScript · JavaScript · Node.js · Vue · React**  
+**Flutter · Dart · Kotlin · Java · Spring Boot**  
+**Playwright · Vitest · Docker · PostgreSQL · MongoDB · Supabase**
 
-...and whatever else makes sense for the thing I'm trying to build.
+I care more about choosing the right tool for a problem than collecting technologies.
 
-## 🧠 Outside the code
+## 🌍 There's more than code
 
-I'm also into languages, music, sound, automation and figuring out how people learn.
+Before software, I studied music production and spent a lot of time composing, recording, and working with sound.
 
-I speak **Hebrew, German, English and Russian**, I'm learning **Spanish**, and I studied music production before somehow ending up in software.
+I'm also slightly obsessed with languages. I speak **Hebrew, English, German, and Russian**, I'm learning **Spanish**, and I'm fascinated by how people learn and communicate.
 
-A lot of what I build starts the same way:
+Then there are the other rabbit holes: everyday automation, electronics, self-hosting, fitness, sound design, and building things with my kids.
 
-> "This is annoying. Surely I can make this better."
+A surprising amount of my work starts with:
+
+> **"This is annoying. I could probably build something for that."**
+
+## 🌍 There's more than code
+
+Before software, I studied music production and spent a lot of time composing, recording, and working with sound.
+
+I'm also slightly obsessed with languages. I speak **Hebrew, English, German, and Russian**, I'm learning **Spanish**, and I'm fascinated by how people learn and communicate.
+
+Then there are the other rabbit holes: everyday automation, electronics, self-hosting, fitness, sound design, and building things with my kids.
+
+A surprising amount of my work starts with:
+
+> **"This is annoying. I could probably build something for that."**
+
+You can find more of what I build, learn, and make at **[budiansky.dev](https://budiansky.dev)**.
