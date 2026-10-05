@@ -8,13 +8,6 @@ I'm a developer and QA engineer based in Berlin. My background spans software qu
 
 ## 🚀 Featured projects
 
-### 🌌 Codestellation
-A system-mapping toolkit that scans codebases and makes their architecture explorable.
-
-It discovers things like APIs, routes, services, entities, dependencies, jobs, middleware, and tests — turning an unfamiliar codebase into something you can understand faster.
-
-**TypeScript · Node.js · static analysis · developer tooling**
-
 ### 🏡 Mitmachstunden
 A real-world web app built for our parent-run daycare to replace the manual tracking of families' required participation hours.
 
